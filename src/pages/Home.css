@@ -1,0 +1,229 @@
+.back{
+    position: relative;
+    width: 1366px;
+    height: 656px;
+    overflow-y: scroll;
+    background: #414040;
+}
+
+.back1{
+    position: absolute;
+    width: 516px;
+    height: 545px;
+    left: 68px;
+    top: 56px;
+
+background: #3F22B1;
+
+}
+.back3{
+    position: absolute;
+    width: 702px;
+    height: 545px;
+    left: 584px;
+    top: 56px;
+    background: #FAFAFA;
+}
+
+.text1{
+    position: absolute;
+    width: 382px;
+    height: 46px;
+    left: 57px;
+    top: 332px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+}
+
+.text2{
+    position: absolute;
+    width: 382px;
+    height: 46px;
+    left: 57px;
+    top: 400px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+
+}
+
+.text3{
+    position: absolute;
+    width: 382px;
+    height: 23px;
+    left: 57px;
+    top: 458px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+
+}
+
+.social{
+    position: absolute;
+    width: 187.98px;
+    height: 26px;
+    left: 125px;
+    top: 549px;
+}
+
+.fb{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 0px;
+    top: 0px;
+}
+
+.twitter{
+    position: absolute;
+    width: 26px;
+    height: 26px;
+    left: 36px;
+    top: 0px;
+}
+
+.youtube{
+
+    position: absolute;
+    width: 115.98px;
+    height: 26px;
+    left: 72px;
+    top: 0px;
+}
+.santush{
+    position: absolute;
+    width: 176px;
+    height: 42px;
+    left: 203px;
+    top: 145px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.05em;
+    color: #000000;
+
+}
+.deb{
+    position: absolute;
+    width: 71px;
+    height: 42px;
+    left: 203px;
+    top: 187px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    letter-spacing: 0.05em;
+    color: #2232BB;
+}
+
+.creative{
+
+    position: absolute;
+    width: 321px;
+    height: 23px;
+    left: 203px;
+    top: 249px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.05em;
+    color: #000000;
+
+}
+
+.para{
+    position: absolute;
+    width: 368px;
+    height: 57px;
+    left: 203px;
+    top: 292px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.05em;
+    color: #000000;
+
+}
+
+.but1{
+    position: absolute;
+    width: 137px;
+    height: 45px;
+    left: 214px;    
+    top: 380px;
+    background: #4800E0;
+    border-radius: 15px;
+    border: 0px;
+}
+
+.portfolio{
+    position: absolute;
+    width: 92px;
+    height: 19px;
+    left: 23px;
+    top: 13px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.05em;
+    color: #FFFFFF;
+
+}
+
+.but2{
+    position: absolute;
+    width: 137px;
+    height: 45px;
+    left: 379px;
+    top: 380px;
+    background: #ffffff;
+    mix-blend-mode: normal;
+    border-radius: 15px;
+}
+
+.resume{
+    position: absolute;
+    width: 67px;
+    height: 19px;
+    left: 35px;
+    top: 13px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+
+.poster{
+    position: absolute;
+    width: 319px;
+    height: 455px;
+    left: 425px;
+    top: 87px;
+}
