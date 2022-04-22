@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/codekart-profiledesign/static/css/main.e6d252fc.css",
-    "main.js": "/codekart-profiledesign/static/js/main.cba35275.js",
+    "main.css": "/codekart-profiledesign/static/css/main.ce12f840.css",
+    "main.js": "/codekart-profiledesign/static/js/main.d04d9059.js",
     "static/js/787.13ad2d9d.chunk.js": "/codekart-profiledesign/static/js/787.13ad2d9d.chunk.js",
     "static/media/fb.png": "/codekart-profiledesign/static/media/fb.5b4225fa4fc0717dea70.png",
     "static/media/youtube.png": "/codekart-profiledesign/static/media/youtube.a676ea31f6d4cf08b9d2.png",
     "static/media/men.png": "/codekart-profiledesign/static/media/men.b856b37bdb3f8f0ec10e.png",
     "index.html": "/codekart-profiledesign/index.html",
-    "main.e6d252fc.css.map": "/codekart-profiledesign/static/css/main.e6d252fc.css.map",
-    "main.cba35275.js.map": "/codekart-profiledesign/static/js/main.cba35275.js.map",
+    "main.ce12f840.css.map": "/codekart-profiledesign/static/css/main.ce12f840.css.map",
+    "main.d04d9059.js.map": "/codekart-profiledesign/static/js/main.d04d9059.js.map",
     "787.13ad2d9d.chunk.js.map": "/codekart-profiledesign/static/js/787.13ad2d9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6d252fc.css",
-    "static/js/main.cba35275.js"
+    "static/css/main.ce12f840.css",
+    "static/js/main.d04d9059.js"
   ]
 }
