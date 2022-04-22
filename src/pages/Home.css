@@ -227,3 +227,9 @@ background: #3F22B1;
     left: 425px;
     top: 87px;
 }
+.but1:hover{
+    cursor: pointer
+}
+.but2:hover{
+    cursor: pointer
+}

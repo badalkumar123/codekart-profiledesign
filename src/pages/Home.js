@@ -31,7 +31,7 @@ export class Home extends Component {
           <div className="creative">Creative Director - Saint Studios</div>
 
           <div className="para">
-            i’m Santush Deb Nath, a huge HTML lover, A<br></br>
+            I’m Santush Deb Nath, a huge HTML lover, a<br></br>
             25-year-old living in a small but damn beautiful<br></br>
             country called Bangladesh
           </div>
